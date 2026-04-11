@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HW_09/Scenes/Lobby.unity
+    guid: 2c4a7acf208a24c7fb640f303448e2ca
+  - enabled: 1
+    path: Assets/HW_09/Scenes/BreakingZone.unity
+    guid: 6c44239dc86b441fb873a9b9d4381efc
+  - enabled: 1
+    path: Assets/HW_09/Scenes/InteriorSimulation.unity
+    guid: 2a32fb7dd804a494aadb7f2b927bc549
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f8f6ad9125ae248128487ba997bf987e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7b1410754aed340e0a81766c1792fe2f, type: 2}
