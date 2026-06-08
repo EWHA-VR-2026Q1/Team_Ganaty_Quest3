@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ColorReaction : MonoBehaviour
+public class ColorReaction2 : MonoBehaviour
 {
     public TMP_Text resultText;
     public Image resultPanel;
