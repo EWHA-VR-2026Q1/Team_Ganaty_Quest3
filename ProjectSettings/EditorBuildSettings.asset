@@ -8,22 +8,22 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/KMS/Scene01_PersonalColor.unity
     guid: 4c126c537392f334180bd5443b419eed
-  - enabled: 1
+  - enabled: 0
     path: Assets/KMS/Scene02_Cutting.unity
     guid: 14cb287e7a2793f4ea2966c4899ce01e
-  - enabled: 1
+  - enabled: 0
     path: Assets/KMS/Scene03_Fitting.unity
     guid: 79303c9fc7cc8c74daee7d9db6b9e2cc
-  - enabled: 1
+  - enabled: 0
     path: Assets/YSY/SY_Scene1.unity
     guid: 95179583a6d714748b9eae4b8d287e62
-  - enabled: 1
+  - enabled: 0
     path: Assets/YSY/SY_Scene2.unity
     guid: b0a1181201e554b8990e590c0de1308b
-  - enabled: 1
+  - enabled: 0
     path: Assets/YSY/SY_Scene3.unity
     guid: 1773347aa75e74379915edc2a478362c
-  - enabled: 1
+  - enabled: 0
     path: Assets/SSY/CityScene1.unity
     guid: 3a3199041887d8c419340d913ed2b7a9
   - enabled: 1
