@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/KMS/Scene01_PersonalColor.unity
     guid: 4c126c537392f334180bd5443b419eed
   - enabled: 1

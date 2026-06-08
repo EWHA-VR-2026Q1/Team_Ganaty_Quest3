@@ -63,7 +63,7 @@ public class FittingManager : MonoBehaviour
                 "Production Cost : $50 -> $0\n" +
                 "Fabric Waste : Generated -> None";
 
-            Invoke(nameof(LoadNextScene), 3f);
+            Invoke(nameof(LoadNextScene), 5f);
         }
         else
         {
