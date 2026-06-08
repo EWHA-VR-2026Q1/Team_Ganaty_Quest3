@@ -4852,7 +4852,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f39808def753548359c81ec012505053, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetSceneName: 
+  targetSceneName: CityScene1
 --- !u!120 &8220662109165079577
 LineRenderer:
   serializedVersion: 2

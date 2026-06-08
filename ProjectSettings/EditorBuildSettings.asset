@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/KMS/Scene01_PersonalColor.unity
+    guid: 4c126c537392f334180bd5443b419eed
+  - enabled: 1
+    path: Assets/KMS/Scene02_Cutting.unity
+    guid: 14cb287e7a2793f4ea2966c4899ce01e
+  - enabled: 1
+    path: Assets/KMS/Scene03_Fitting.unity
+    guid: 79303c9fc7cc8c74daee7d9db6b9e2cc
+  - enabled: 1
     path: Assets/YSY/SY_Scene1.unity
     guid: 95179583a6d714748b9eae4b8d287e62
   - enabled: 1
