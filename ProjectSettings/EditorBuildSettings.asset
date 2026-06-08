@@ -23,6 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/YSY/SY_Scene3.unity
     guid: 1773347aa75e74379915edc2a478362c
+  - enabled: 1
+    path: Assets/SSY/CityScene1.unity
+    guid: 3a3199041887d8c419340d913ed2b7a9
+  - enabled: 1
+    path: Assets/SSY/CityScene2.unity
+    guid: ff46418b4a6731c4b846b2703db3383c
+  - enabled: 1
+    path: Assets/SSY/CityScene3.unity
+    guid: 3bac2ac5d28ad5f4f95a3c9540cfed0f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a3728f29df1154d84a2b590df57c1bce, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}

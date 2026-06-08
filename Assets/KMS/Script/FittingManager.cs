@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class FittingManager : MonoBehaviour
@@ -61,11 +62,17 @@ public class FittingManager : MonoBehaviour
                 "Traditional Method : 3 Days -> 3 Minutes\n" +
                 "Production Cost : $50 -> $0\n" +
                 "Fabric Waste : Generated -> None";
+
+            Invoke(nameof(LoadNextScene), 3f);
         }
         else
         {
-            resultText.text =
-                "Please try on both shirt and pants.";
+            resultText.text = "Please try on both shirt and pants.";
         }
+    }
+
+    private void LoadNextScene()
+    {
+        SceneManager.LoadScene("SY_Scene1");
     }
 }
